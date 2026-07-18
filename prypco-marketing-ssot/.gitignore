@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local pipeline byproducts not needed to serve the dashboard.
+# NOTE: staging/ is intentionally NOT ignored -- app.py reads it at runtime,
+# so the CSVs must be committed for the deployed app to render.
+clean/
+quarantine/
+
+# OS
+.DS_Store

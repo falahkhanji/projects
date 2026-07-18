@@ -1,0 +1,885 @@
+channel,signup_month,vertical,leads,qualified,lead_to_qualified_rate_pct
+Direct,2024-01,Mortgage,3,2,66.66666666666666
+Direct,2024-01,Primary Sales,2,2,100.0
+Direct,2024-01,Property Management,1,1,100.0
+Direct,2024-01,Rental,2,2,100.0
+Direct,2024-01,Secondary Sales,1,1,100.0
+Direct,2024-02,Mortgage,1,0,0.0
+Direct,2024-02,Primary Sales,2,2,100.0
+Direct,2024-02,Property Management,3,2,66.66666666666666
+Direct,2024-02,Rental,3,1,33.33333333333333
+Direct,2024-02,Secondary Sales,2,1,50.0
+Direct,2024-03,Mortgage,3,3,100.0
+Direct,2024-03,Primary Sales,4,1,25.0
+Direct,2024-03,Property Management,2,1,50.0
+Direct,2024-03,Rental,2,0,0.0
+Direct,2024-03,Secondary Sales,1,0,0.0
+Direct,2024-04,Mortgage,2,1,50.0
+Direct,2024-04,Primary Sales,2,2,100.0
+Direct,2024-04,Property Management,5,4,80.0
+Direct,2024-04,Rental,1,0,0.0
+Direct,2024-04,Secondary Sales,1,0,0.0
+Direct,2024-05,Mortgage,2,1,50.0
+Direct,2024-05,Primary Sales,1,0,0.0
+Direct,2024-05,Property Management,3,2,66.66666666666666
+Direct,2024-05,Secondary Sales,1,1,100.0
+Direct,2024-06,Mortgage,1,0,0.0
+Direct,2024-06,Property Management,1,1,100.0
+Direct,2024-06,Rental,1,0,0.0
+Direct,2024-06,Secondary Sales,1,0,0.0
+Direct,2024-07,Mortgage,1,1,100.0
+Direct,2024-07,Primary Sales,2,2,100.0
+Direct,2024-07,Property Management,2,1,50.0
+Direct,2024-07,Rental,2,1,50.0
+Direct,2024-08,Primary Sales,1,0,0.0
+Direct,2024-08,Property Management,1,1,100.0
+Direct,2024-08,Secondary Sales,2,1,50.0
+Direct,2024-09,Primary Sales,3,1,33.33333333333333
+Direct,2024-09,Property Management,1,0,0.0
+Direct,2024-09,Rental,4,2,50.0
+Direct,2024-09,Secondary Sales,1,1,100.0
+Direct,2024-10,Mortgage,2,1,50.0
+Direct,2024-10,Primary Sales,2,0,0.0
+Direct,2024-10,Property Management,1,1,100.0
+Direct,2024-10,Rental,3,1,33.33333333333333
+Direct,2024-10,Secondary Sales,3,1,33.33333333333333
+Direct,2024-11,Mortgage,3,2,66.66666666666666
+Direct,2024-11,Primary Sales,2,0,0.0
+Direct,2024-11,Property Management,2,2,100.0
+Direct,2024-11,Rental,1,1,100.0
+Direct,2024-12,Mortgage,2,1,50.0
+Direct,2024-12,Property Management,2,1,50.0
+Direct,2024-12,Rental,1,1,100.0
+Direct,2024-12,Secondary Sales,1,0,0.0
+Direct,2025-01,Primary Sales,3,2,66.66666666666666
+Direct,2025-01,Property Management,2,2,100.0
+Direct,2025-01,Rental,1,1,100.0
+Direct,2025-01,Secondary Sales,3,1,33.33333333333333
+Direct,2025-02,Mortgage,1,0,0.0
+Direct,2025-02,Property Management,5,3,60.0
+Direct,2025-02,Rental,1,1,100.0
+Direct,2025-02,Secondary Sales,3,2,66.66666666666666
+Direct,2025-03,Mortgage,5,0,0.0
+Direct,2025-03,Primary Sales,3,2,66.66666666666666
+Direct,2025-03,Property Management,1,0,0.0
+Direct,2025-03,Secondary Sales,2,1,50.0
+Direct,2025-04,Mortgage,5,3,60.0
+Direct,2025-04,Primary Sales,4,1,25.0
+Direct,2025-04,Property Management,1,1,100.0
+Direct,2025-04,Rental,2,2,100.0
+Direct,2025-04,Secondary Sales,3,1,33.33333333333333
+Direct,2025-05,Mortgage,1,1,100.0
+Direct,2025-05,Primary Sales,3,2,66.66666666666666
+Direct,2025-05,Property Management,3,1,33.33333333333333
+Direct,2025-05,Rental,2,0,0.0
+Direct,2025-05,Secondary Sales,3,0,0.0
+Direct,2025-06,Mortgage,1,0,0.0
+Direct,2025-06,Primary Sales,1,1,100.0
+Direct,2025-06,Property Management,1,0,0.0
+Direct,2025-06,Rental,2,1,50.0
+Direct,2025-06,Secondary Sales,2,0,0.0
+Email Campaign,2024-01,Mortgage,3,1,33.33333333333333
+Email Campaign,2024-01,Property Management,2,2,100.0
+Email Campaign,2024-01,Rental,4,0,0.0
+Email Campaign,2024-01,Secondary Sales,2,1,50.0
+Email Campaign,2024-02,Mortgage,6,3,50.0
+Email Campaign,2024-02,Property Management,1,0,0.0
+Email Campaign,2024-02,Secondary Sales,3,1,33.33333333333333
+Email Campaign,2024-03,Primary Sales,1,1,100.0
+Email Campaign,2024-03,Rental,2,2,100.0
+Email Campaign,2024-03,Secondary Sales,3,0,0.0
+Email Campaign,2024-04,Mortgage,1,0,0.0
+Email Campaign,2024-04,Primary Sales,1,1,100.0
+Email Campaign,2024-04,Rental,4,1,25.0
+Email Campaign,2024-05,Mortgage,1,1,100.0
+Email Campaign,2024-05,Property Management,2,0,0.0
+Email Campaign,2024-05,Rental,4,2,50.0
+Email Campaign,2024-05,Secondary Sales,1,0,0.0
+Email Campaign,2024-06,Mortgage,3,2,66.66666666666666
+Email Campaign,2024-06,Primary Sales,4,2,50.0
+Email Campaign,2024-06,Property Management,4,1,25.0
+Email Campaign,2024-06,Rental,2,1,50.0
+Email Campaign,2024-06,Secondary Sales,2,1,50.0
+Email Campaign,2024-07,Primary Sales,2,1,50.0
+Email Campaign,2024-07,Property Management,2,1,50.0
+Email Campaign,2024-07,Rental,1,0,0.0
+Email Campaign,2024-07,Secondary Sales,2,1,50.0
+Email Campaign,2024-08,Mortgage,1,0,0.0
+Email Campaign,2024-08,Primary Sales,1,0,0.0
+Email Campaign,2024-08,Rental,2,0,0.0
+Email Campaign,2024-09,Mortgage,2,0,0.0
+Email Campaign,2024-09,Primary Sales,2,1,50.0
+Email Campaign,2024-09,Property Management,4,2,50.0
+Email Campaign,2024-09,Secondary Sales,2,0,0.0
+Email Campaign,2024-10,Mortgage,2,1,50.0
+Email Campaign,2024-10,Primary Sales,2,2,100.0
+Email Campaign,2024-10,Property Management,2,1,50.0
+Email Campaign,2024-10,Rental,1,1,100.0
+Email Campaign,2024-10,Secondary Sales,6,3,50.0
+Email Campaign,2024-11,Mortgage,2,1,50.0
+Email Campaign,2024-11,Primary Sales,2,1,50.0
+Email Campaign,2024-11,Rental,4,2,50.0
+Email Campaign,2024-11,Secondary Sales,2,1,50.0
+Email Campaign,2024-12,Mortgage,1,0,0.0
+Email Campaign,2024-12,Primary Sales,2,0,0.0
+Email Campaign,2024-12,Property Management,1,1,100.0
+Email Campaign,2024-12,Rental,3,1,33.33333333333333
+Email Campaign,2024-12,Secondary Sales,1,0,0.0
+Email Campaign,2025-01,Mortgage,6,5,83.33333333333334
+Email Campaign,2025-01,Property Management,1,1,100.0
+Email Campaign,2025-01,Rental,1,0,0.0
+Email Campaign,2025-01,Secondary Sales,5,2,40.0
+Email Campaign,2025-02,Mortgage,1,1,100.0
+Email Campaign,2025-02,Primary Sales,1,0,0.0
+Email Campaign,2025-02,Property Management,1,0,0.0
+Email Campaign,2025-02,Rental,2,2,100.0
+Email Campaign,2025-03,Mortgage,1,1,100.0
+Email Campaign,2025-03,Primary Sales,3,2,66.66666666666666
+Email Campaign,2025-03,Property Management,1,1,100.0
+Email Campaign,2025-03,Rental,2,0,0.0
+Email Campaign,2025-03,Secondary Sales,3,2,66.66666666666666
+Email Campaign,2025-04,Mortgage,1,0,0.0
+Email Campaign,2025-04,Primary Sales,1,0,0.0
+Email Campaign,2025-04,Secondary Sales,4,0,0.0
+Email Campaign,2025-05,Mortgage,2,1,50.0
+Email Campaign,2025-05,Primary Sales,4,1,25.0
+Email Campaign,2025-05,Property Management,3,3,100.0
+Email Campaign,2025-05,Rental,2,0,0.0
+Email Campaign,2025-05,Secondary Sales,1,1,100.0
+Email Campaign,2025-06,Mortgage,1,0,0.0
+Email Campaign,2025-06,Secondary Sales,3,2,66.66666666666666
+Google Ads,2024-01,Mortgage,2,0,0.0
+Google Ads,2024-01,Property Management,2,1,50.0
+Google Ads,2024-01,Rental,2,2,100.0
+Google Ads,2024-01,Secondary Sales,2,1,50.0
+Google Ads,2024-02,Mortgage,1,0,0.0
+Google Ads,2024-02,Primary Sales,2,0,0.0
+Google Ads,2024-02,Property Management,2,0,0.0
+Google Ads,2024-02,Rental,1,0,0.0
+Google Ads,2024-03,Primary Sales,2,0,0.0
+Google Ads,2024-03,Property Management,2,2,100.0
+Google Ads,2024-03,Secondary Sales,2,2,100.0
+Google Ads,2024-04,Mortgage,1,0,0.0
+Google Ads,2024-04,Primary Sales,1,0,0.0
+Google Ads,2024-04,Property Management,2,1,50.0
+Google Ads,2024-04,Secondary Sales,3,1,33.33333333333333
+Google Ads,2024-05,Mortgage,3,1,33.33333333333333
+Google Ads,2024-05,Primary Sales,1,1,100.0
+Google Ads,2024-05,Property Management,1,1,100.0
+Google Ads,2024-05,Rental,6,2,33.33333333333333
+Google Ads,2024-06,Mortgage,3,2,66.66666666666666
+Google Ads,2024-06,Primary Sales,2,0,0.0
+Google Ads,2024-06,Property Management,1,0,0.0
+Google Ads,2024-06,Rental,1,1,100.0
+Google Ads,2024-06,Secondary Sales,2,1,50.0
+Google Ads,2024-07,Primary Sales,3,0,0.0
+Google Ads,2024-07,Property Management,5,4,80.0
+Google Ads,2024-07,Rental,1,1,100.0
+Google Ads,2024-07,Secondary Sales,7,3,42.857142857142854
+Google Ads,2024-08,Mortgage,1,1,100.0
+Google Ads,2024-08,Primary Sales,1,0,0.0
+Google Ads,2024-08,Property Management,2,1,50.0
+Google Ads,2024-08,Rental,1,0,0.0
+Google Ads,2024-08,Secondary Sales,3,1,33.33333333333333
+Google Ads,2024-09,Mortgage,2,2,100.0
+Google Ads,2024-09,Primary Sales,4,2,50.0
+Google Ads,2024-09,Property Management,2,2,100.0
+Google Ads,2024-09,Rental,1,0,0.0
+Google Ads,2024-09,Secondary Sales,1,1,100.0
+Google Ads,2024-10,Mortgage,6,3,50.0
+Google Ads,2024-10,Primary Sales,1,0,0.0
+Google Ads,2024-10,Property Management,3,1,33.33333333333333
+Google Ads,2024-10,Rental,3,0,0.0
+Google Ads,2024-11,Mortgage,1,0,0.0
+Google Ads,2024-11,Primary Sales,2,1,50.0
+Google Ads,2024-11,Property Management,1,1,100.0
+Google Ads,2024-11,Rental,3,1,33.33333333333333
+Google Ads,2024-11,Secondary Sales,1,0,0.0
+Google Ads,2024-12,Primary Sales,4,3,75.0
+Google Ads,2024-12,Property Management,1,1,100.0
+Google Ads,2024-12,Rental,1,1,100.0
+Google Ads,2024-12,Secondary Sales,1,1,100.0
+Google Ads,2025-01,Mortgage,7,2,28.57142857142857
+Google Ads,2025-01,Primary Sales,2,2,100.0
+Google Ads,2025-01,Property Management,2,0,0.0
+Google Ads,2025-01,Rental,3,1,33.33333333333333
+Google Ads,2025-01,Secondary Sales,2,0,0.0
+Google Ads,2025-02,Mortgage,2,1,50.0
+Google Ads,2025-02,Primary Sales,3,2,66.66666666666666
+Google Ads,2025-02,Property Management,1,0,0.0
+Google Ads,2025-02,Secondary Sales,1,0,0.0
+Google Ads,2025-03,Mortgage,2,0,0.0
+Google Ads,2025-03,Primary Sales,2,1,50.0
+Google Ads,2025-03,Property Management,2,1,50.0
+Google Ads,2025-03,Rental,2,1,50.0
+Google Ads,2025-03,Secondary Sales,5,2,40.0
+Google Ads,2025-04,Mortgage,4,1,25.0
+Google Ads,2025-04,Property Management,2,0,0.0
+Google Ads,2025-04,Secondary Sales,2,0,0.0
+Google Ads,2025-05,Mortgage,5,1,20.0
+Google Ads,2025-05,Rental,1,1,100.0
+Google Ads,2025-05,Secondary Sales,1,0,0.0
+Google Ads,2025-06,Mortgage,1,1,100.0
+Google Ads,2025-06,Primary Sales,1,1,100.0
+Google Ads,2025-06,Property Management,2,1,50.0
+Google Ads,2025-06,Rental,2,1,50.0
+Influencer,2024-01,Primary Sales,2,0,0.0
+Influencer,2024-01,Property Management,2,1,50.0
+Influencer,2024-01,Rental,1,0,0.0
+Influencer,2024-01,Secondary Sales,1,0,0.0
+Influencer,2024-02,Mortgage,3,2,66.66666666666666
+Influencer,2024-02,Primary Sales,1,0,0.0
+Influencer,2024-02,Property Management,2,1,50.0
+Influencer,2024-02,Rental,5,0,0.0
+Influencer,2024-02,Secondary Sales,3,2,66.66666666666666
+Influencer,2024-03,Mortgage,2,0,0.0
+Influencer,2024-03,Property Management,1,1,100.0
+Influencer,2024-03,Secondary Sales,3,1,33.33333333333333
+Influencer,2024-04,Mortgage,1,1,100.0
+Influencer,2024-04,Primary Sales,2,0,0.0
+Influencer,2024-04,Property Management,5,2,40.0
+Influencer,2024-04,Rental,1,0,0.0
+Influencer,2024-05,Mortgage,1,1,100.0
+Influencer,2024-05,Primary Sales,3,2,66.66666666666666
+Influencer,2024-05,Property Management,3,3,100.0
+Influencer,2024-05,Secondary Sales,1,1,100.0
+Influencer,2024-06,Mortgage,4,2,50.0
+Influencer,2024-06,Primary Sales,2,2,100.0
+Influencer,2024-06,Property Management,1,1,100.0
+Influencer,2024-06,Rental,3,2,66.66666666666666
+Influencer,2024-06,Secondary Sales,2,2,100.0
+Influencer,2024-07,Mortgage,3,1,33.33333333333333
+Influencer,2024-07,Primary Sales,1,0,0.0
+Influencer,2024-07,Property Management,1,0,0.0
+Influencer,2024-07,Rental,2,0,0.0
+Influencer,2024-07,Secondary Sales,2,2,100.0
+Influencer,2024-08,Mortgage,4,1,25.0
+Influencer,2024-08,Primary Sales,1,1,100.0
+Influencer,2024-08,Property Management,3,0,0.0
+Influencer,2024-08,Rental,2,1,50.0
+Influencer,2024-08,Secondary Sales,3,1,33.33333333333333
+Influencer,2024-09,Mortgage,2,1,50.0
+Influencer,2024-09,Property Management,1,1,100.0
+Influencer,2024-09,Rental,1,1,100.0
+Influencer,2024-10,Mortgage,1,0,0.0
+Influencer,2024-10,Primary Sales,2,0,0.0
+Influencer,2024-10,Property Management,1,1,100.0
+Influencer,2024-10,Rental,2,0,0.0
+Influencer,2024-10,Secondary Sales,3,2,66.66666666666666
+Influencer,2024-11,Mortgage,2,0,0.0
+Influencer,2024-11,Primary Sales,1,0,0.0
+Influencer,2024-11,Property Management,1,1,100.0
+Influencer,2024-11,Rental,2,0,0.0
+Influencer,2024-11,Secondary Sales,1,0,0.0
+Influencer,2024-12,Mortgage,4,2,50.0
+Influencer,2024-12,Primary Sales,2,0,0.0
+Influencer,2024-12,Property Management,1,1,100.0
+Influencer,2024-12,Rental,2,1,50.0
+Influencer,2024-12,Secondary Sales,5,0,0.0
+Influencer,2025-01,Property Management,2,0,0.0
+Influencer,2025-01,Rental,3,0,0.0
+Influencer,2025-01,Secondary Sales,3,0,0.0
+Influencer,2025-02,Mortgage,1,1,100.0
+Influencer,2025-02,Property Management,1,0,0.0
+Influencer,2025-02,Rental,2,2,100.0
+Influencer,2025-02,Secondary Sales,5,2,40.0
+Influencer,2025-03,Primary Sales,2,2,100.0
+Influencer,2025-03,Property Management,3,0,0.0
+Influencer,2025-03,Rental,2,0,0.0
+Influencer,2025-03,Secondary Sales,2,2,100.0
+Influencer,2025-04,Mortgage,1,1,100.0
+Influencer,2025-04,Property Management,2,2,100.0
+Influencer,2025-04,Rental,3,1,33.33333333333333
+Influencer,2025-04,Secondary Sales,1,0,0.0
+Influencer,2025-05,Mortgage,3,1,33.33333333333333
+Influencer,2025-05,Primary Sales,3,1,33.33333333333333
+Influencer,2025-05,Property Management,1,0,0.0
+Influencer,2025-05,Rental,2,1,50.0
+Influencer,2025-05,Secondary Sales,2,1,50.0
+Influencer,2025-06,Mortgage,1,0,0.0
+Influencer,2025-06,Primary Sales,1,0,0.0
+Influencer,2025-06,Rental,3,1,33.33333333333333
+Influencer,2025-06,Secondary Sales,2,0,0.0
+Meta Ads,2024-01,Mortgage,3,0,0.0
+Meta Ads,2024-01,Primary Sales,2,0,0.0
+Meta Ads,2024-01,Property Management,3,0,0.0
+Meta Ads,2024-01,Rental,1,0,0.0
+Meta Ads,2024-01,Secondary Sales,3,1,33.33333333333333
+Meta Ads,2024-02,Mortgage,3,2,66.66666666666666
+Meta Ads,2024-02,Property Management,3,1,33.33333333333333
+Meta Ads,2024-02,Rental,1,1,100.0
+Meta Ads,2024-03,Mortgage,1,0,0.0
+Meta Ads,2024-03,Primary Sales,3,0,0.0
+Meta Ads,2024-03,Property Management,5,1,20.0
+Meta Ads,2024-03,Rental,2,2,100.0
+Meta Ads,2024-04,Mortgage,1,0,0.0
+Meta Ads,2024-04,Primary Sales,2,0,0.0
+Meta Ads,2024-04,Property Management,1,1,100.0
+Meta Ads,2024-04,Rental,4,3,75.0
+Meta Ads,2024-05,Mortgage,3,1,33.33333333333333
+Meta Ads,2024-05,Primary Sales,2,1,50.0
+Meta Ads,2024-05,Property Management,10,5,50.0
+Meta Ads,2024-05,Rental,2,2,100.0
+Meta Ads,2024-05,Secondary Sales,2,2,100.0
+Meta Ads,2024-06,Mortgage,1,1,100.0
+Meta Ads,2024-06,Primary Sales,5,1,20.0
+Meta Ads,2024-06,Property Management,3,3,100.0
+Meta Ads,2024-06,Rental,2,0,0.0
+Meta Ads,2024-06,Secondary Sales,1,0,0.0
+Meta Ads,2024-07,Mortgage,1,0,0.0
+Meta Ads,2024-07,Primary Sales,3,2,66.66666666666666
+Meta Ads,2024-07,Property Management,1,0,0.0
+Meta Ads,2024-07,Rental,2,0,0.0
+Meta Ads,2024-08,Mortgage,2,1,50.0
+Meta Ads,2024-08,Primary Sales,1,1,100.0
+Meta Ads,2024-08,Property Management,2,1,50.0
+Meta Ads,2024-08,Rental,2,2,100.0
+Meta Ads,2024-08,Secondary Sales,1,0,0.0
+Meta Ads,2024-09,Mortgage,3,1,33.33333333333333
+Meta Ads,2024-09,Primary Sales,3,1,33.33333333333333
+Meta Ads,2024-09,Property Management,2,1,50.0
+Meta Ads,2024-09,Rental,1,1,100.0
+Meta Ads,2024-09,Secondary Sales,2,1,50.0
+Meta Ads,2024-10,Mortgage,2,2,100.0
+Meta Ads,2024-10,Primary Sales,1,0,0.0
+Meta Ads,2024-10,Property Management,3,2,66.66666666666666
+Meta Ads,2024-10,Rental,3,1,33.33333333333333
+Meta Ads,2024-10,Secondary Sales,3,3,100.0
+Meta Ads,2024-11,Primary Sales,1,0,0.0
+Meta Ads,2024-11,Property Management,1,0,0.0
+Meta Ads,2024-11,Rental,1,0,0.0
+Meta Ads,2024-11,Secondary Sales,1,0,0.0
+Meta Ads,2024-12,Mortgage,1,0,0.0
+Meta Ads,2024-12,Property Management,4,2,50.0
+Meta Ads,2024-12,Rental,2,0,0.0
+Meta Ads,2025-01,Mortgage,4,0,0.0
+Meta Ads,2025-01,Primary Sales,1,0,0.0
+Meta Ads,2025-01,Rental,3,2,66.66666666666666
+Meta Ads,2025-01,Secondary Sales,1,0,0.0
+Meta Ads,2025-02,Mortgage,1,0,0.0
+Meta Ads,2025-02,Primary Sales,1,0,0.0
+Meta Ads,2025-02,Property Management,5,3,60.0
+Meta Ads,2025-02,Rental,1,0,0.0
+Meta Ads,2025-02,Secondary Sales,2,1,50.0
+Meta Ads,2025-03,Mortgage,2,0,0.0
+Meta Ads,2025-03,Primary Sales,4,2,50.0
+Meta Ads,2025-03,Property Management,5,2,40.0
+Meta Ads,2025-03,Rental,1,1,100.0
+Meta Ads,2025-03,Secondary Sales,2,1,50.0
+Meta Ads,2025-04,Mortgage,2,0,0.0
+Meta Ads,2025-04,Property Management,1,0,0.0
+Meta Ads,2025-04,Rental,1,0,0.0
+Meta Ads,2025-04,Secondary Sales,1,0,0.0
+Meta Ads,2025-05,Mortgage,1,1,100.0
+Meta Ads,2025-05,Primary Sales,3,2,66.66666666666666
+Meta Ads,2025-05,Property Management,3,2,66.66666666666666
+Meta Ads,2025-05,Rental,1,0,0.0
+Meta Ads,2025-05,Secondary Sales,4,3,75.0
+Meta Ads,2025-06,Mortgage,3,0,0.0
+Meta Ads,2025-06,Primary Sales,2,0,0.0
+Meta Ads,2025-06,Property Management,4,2,50.0
+Meta Ads,2025-06,Rental,1,1,100.0
+Meta Ads,2025-06,Secondary Sales,3,1,33.33333333333333
+Offline Event,2024-01,Property Management,1,0,0.0
+Offline Event,2024-01,Rental,7,4,57.14285714285714
+Offline Event,2024-01,Secondary Sales,5,0,0.0
+Offline Event,2024-02,Mortgage,1,1,100.0
+Offline Event,2024-02,Primary Sales,4,2,50.0
+Offline Event,2024-02,Property Management,3,0,0.0
+Offline Event,2024-02,Rental,4,2,50.0
+Offline Event,2024-02,Secondary Sales,1,0,0.0
+Offline Event,2024-03,Primary Sales,3,0,0.0
+Offline Event,2024-03,Property Management,1,0,0.0
+Offline Event,2024-03,Rental,5,2,40.0
+Offline Event,2024-03,Secondary Sales,1,0,0.0
+Offline Event,2024-04,Mortgage,2,1,50.0
+Offline Event,2024-04,Primary Sales,1,0,0.0
+Offline Event,2024-04,Rental,2,2,100.0
+Offline Event,2024-04,Secondary Sales,4,2,50.0
+Offline Event,2024-05,Mortgage,1,0,0.0
+Offline Event,2024-05,Primary Sales,2,1,50.0
+Offline Event,2024-05,Property Management,2,1,50.0
+Offline Event,2024-05,Rental,1,1,100.0
+Offline Event,2024-05,Secondary Sales,3,3,100.0
+Offline Event,2024-06,Mortgage,1,1,100.0
+Offline Event,2024-06,Primary Sales,4,1,25.0
+Offline Event,2024-06,Property Management,3,2,66.66666666666666
+Offline Event,2024-06,Secondary Sales,2,1,50.0
+Offline Event,2024-07,Mortgage,2,1,50.0
+Offline Event,2024-07,Primary Sales,3,1,33.33333333333333
+Offline Event,2024-07,Rental,2,1,50.0
+Offline Event,2024-07,Secondary Sales,5,1,20.0
+Offline Event,2024-08,Mortgage,2,2,100.0
+Offline Event,2024-08,Primary Sales,1,0,0.0
+Offline Event,2024-08,Rental,2,2,100.0
+Offline Event,2024-08,Secondary Sales,1,0,0.0
+Offline Event,2024-09,Mortgage,1,1,100.0
+Offline Event,2024-09,Property Management,1,0,0.0
+Offline Event,2024-09,Secondary Sales,2,0,0.0
+Offline Event,2024-10,Mortgage,1,0,0.0
+Offline Event,2024-10,Primary Sales,4,0,0.0
+Offline Event,2024-10,Property Management,4,2,50.0
+Offline Event,2024-10,Rental,1,0,0.0
+Offline Event,2024-10,Secondary Sales,5,1,20.0
+Offline Event,2024-11,Primary Sales,2,1,50.0
+Offline Event,2024-11,Property Management,3,0,0.0
+Offline Event,2024-11,Rental,5,2,40.0
+Offline Event,2024-11,Secondary Sales,3,2,66.66666666666666
+Offline Event,2024-12,Mortgage,3,3,100.0
+Offline Event,2024-12,Primary Sales,4,3,75.0
+Offline Event,2024-12,Property Management,1,1,100.0
+Offline Event,2024-12,Secondary Sales,3,3,100.0
+Offline Event,2025-01,Mortgage,1,1,100.0
+Offline Event,2025-01,Primary Sales,2,2,100.0
+Offline Event,2025-01,Property Management,3,1,33.33333333333333
+Offline Event,2025-01,Rental,4,2,50.0
+Offline Event,2025-01,Secondary Sales,4,1,25.0
+Offline Event,2025-02,Mortgage,2,0,0.0
+Offline Event,2025-02,Primary Sales,1,0,0.0
+Offline Event,2025-02,Property Management,5,1,20.0
+Offline Event,2025-02,Rental,2,0,0.0
+Offline Event,2025-03,Mortgage,2,0,0.0
+Offline Event,2025-03,Primary Sales,2,1,50.0
+Offline Event,2025-03,Property Management,3,0,0.0
+Offline Event,2025-03,Rental,2,2,100.0
+Offline Event,2025-03,Secondary Sales,1,1,100.0
+Offline Event,2025-04,Mortgage,1,0,0.0
+Offline Event,2025-04,Primary Sales,2,0,0.0
+Offline Event,2025-04,Property Management,3,2,66.66666666666666
+Offline Event,2025-04,Secondary Sales,4,1,25.0
+Offline Event,2025-05,Mortgage,1,1,100.0
+Offline Event,2025-05,Property Management,3,1,33.33333333333333
+Offline Event,2025-05,Rental,2,0,0.0
+Offline Event,2025-05,Secondary Sales,2,1,50.0
+Offline Event,2025-06,Mortgage,2,0,0.0
+Offline Event,2025-06,Property Management,2,1,50.0
+Offline Event,2025-06,Rental,1,0,0.0
+Offline Event,2025-06,Secondary Sales,3,2,66.66666666666666
+Organic Search,2024-01,Mortgage,3,1,33.33333333333333
+Organic Search,2024-01,Primary Sales,3,2,66.66666666666666
+Organic Search,2024-01,Property Management,3,0,0.0
+Organic Search,2024-01,Rental,1,1,100.0
+Organic Search,2024-02,Primary Sales,3,0,0.0
+Organic Search,2024-02,Rental,1,0,0.0
+Organic Search,2024-03,Mortgage,3,2,66.66666666666666
+Organic Search,2024-03,Rental,3,1,33.33333333333333
+Organic Search,2024-04,Property Management,3,1,33.33333333333333
+Organic Search,2024-04,Secondary Sales,3,1,33.33333333333333
+Organic Search,2024-05,Mortgage,1,1,100.0
+Organic Search,2024-05,Primary Sales,3,0,0.0
+Organic Search,2024-05,Property Management,2,0,0.0
+Organic Search,2024-05,Rental,1,0,0.0
+Organic Search,2024-05,Secondary Sales,2,1,50.0
+Organic Search,2024-06,Primary Sales,2,0,0.0
+Organic Search,2024-06,Rental,1,1,100.0
+Organic Search,2024-07,Primary Sales,4,3,75.0
+Organic Search,2024-07,Rental,3,1,33.33333333333333
+Organic Search,2024-07,Secondary Sales,2,1,50.0
+Organic Search,2024-08,Mortgage,1,1,100.0
+Organic Search,2024-08,Property Management,3,0,0.0
+Organic Search,2024-08,Rental,3,3,100.0
+Organic Search,2024-08,Secondary Sales,1,0,0.0
+Organic Search,2024-09,Primary Sales,3,3,100.0
+Organic Search,2024-09,Property Management,1,0,0.0
+Organic Search,2024-09,Secondary Sales,4,0,0.0
+Organic Search,2024-10,Primary Sales,2,1,50.0
+Organic Search,2024-10,Property Management,2,1,50.0
+Organic Search,2024-10,Rental,2,1,50.0
+Organic Search,2024-10,Secondary Sales,2,2,100.0
+Organic Search,2024-11,Primary Sales,2,2,100.0
+Organic Search,2024-11,Secondary Sales,4,3,75.0
+Organic Search,2024-12,Mortgage,1,1,100.0
+Organic Search,2024-12,Property Management,4,3,75.0
+Organic Search,2024-12,Rental,2,2,100.0
+Organic Search,2024-12,Secondary Sales,3,2,66.66666666666666
+Organic Search,2025-01,Primary Sales,1,0,0.0
+Organic Search,2025-01,Rental,2,0,0.0
+Organic Search,2025-01,Secondary Sales,4,2,50.0
+Organic Search,2025-02,Mortgage,1,1,100.0
+Organic Search,2025-02,Primary Sales,2,1,50.0
+Organic Search,2025-02,Property Management,2,2,100.0
+Organic Search,2025-02,Rental,5,1,20.0
+Organic Search,2025-02,Secondary Sales,2,1,50.0
+Organic Search,2025-03,Primary Sales,2,2,100.0
+Organic Search,2025-03,Property Management,2,2,100.0
+Organic Search,2025-03,Rental,3,0,0.0
+Organic Search,2025-03,Secondary Sales,1,1,100.0
+Organic Search,2025-04,Mortgage,1,1,100.0
+Organic Search,2025-04,Primary Sales,1,0,0.0
+Organic Search,2025-04,Property Management,2,0,0.0
+Organic Search,2025-04,Rental,3,1,33.33333333333333
+Organic Search,2025-04,Secondary Sales,6,2,33.33333333333333
+Organic Search,2025-05,Mortgage,3,1,33.33333333333333
+Organic Search,2025-05,Primary Sales,2,0,0.0
+Organic Search,2025-05,Property Management,2,1,50.0
+Organic Search,2025-06,Mortgage,2,0,0.0
+Organic Search,2025-06,Primary Sales,4,3,75.0
+Organic Search,2025-06,Rental,3,2,66.66666666666666
+Push Notification,2024-01,Mortgage,1,0,0.0
+Push Notification,2024-01,Property Management,1,0,0.0
+Push Notification,2024-01,Secondary Sales,3,2,66.66666666666666
+Push Notification,2024-02,Mortgage,7,3,42.857142857142854
+Push Notification,2024-02,Primary Sales,1,0,0.0
+Push Notification,2024-02,Property Management,1,1,100.0
+Push Notification,2024-02,Rental,2,1,50.0
+Push Notification,2024-02,Secondary Sales,1,0,0.0
+Push Notification,2024-03,Primary Sales,2,2,100.0
+Push Notification,2024-03,Property Management,1,0,0.0
+Push Notification,2024-03,Rental,2,1,50.0
+Push Notification,2024-03,Secondary Sales,1,0,0.0
+Push Notification,2024-04,Mortgage,2,2,100.0
+Push Notification,2024-04,Primary Sales,4,2,50.0
+Push Notification,2024-04,Property Management,1,1,100.0
+Push Notification,2024-04,Rental,1,1,100.0
+Push Notification,2024-04,Secondary Sales,3,0,0.0
+Push Notification,2024-05,Mortgage,2,1,50.0
+Push Notification,2024-05,Primary Sales,1,1,100.0
+Push Notification,2024-05,Rental,2,1,50.0
+Push Notification,2024-05,Secondary Sales,1,1,100.0
+Push Notification,2024-06,Mortgage,1,0,0.0
+Push Notification,2024-06,Primary Sales,4,1,25.0
+Push Notification,2024-06,Property Management,1,1,100.0
+Push Notification,2024-06,Rental,3,1,33.33333333333333
+Push Notification,2024-07,Mortgage,1,1,100.0
+Push Notification,2024-07,Rental,1,1,100.0
+Push Notification,2024-07,Secondary Sales,2,1,50.0
+Push Notification,2024-08,Mortgage,1,1,100.0
+Push Notification,2024-08,Property Management,2,1,50.0
+Push Notification,2024-08,Rental,2,1,50.0
+Push Notification,2024-08,Secondary Sales,1,1,100.0
+Push Notification,2024-09,Mortgage,1,1,100.0
+Push Notification,2024-09,Property Management,3,0,0.0
+Push Notification,2024-09,Rental,1,1,100.0
+Push Notification,2024-09,Secondary Sales,2,2,100.0
+Push Notification,2024-10,Mortgage,7,2,28.57142857142857
+Push Notification,2024-10,Primary Sales,2,2,100.0
+Push Notification,2024-10,Rental,2,0,0.0
+Push Notification,2024-10,Secondary Sales,3,1,33.33333333333333
+Push Notification,2024-11,Mortgage,2,1,50.0
+Push Notification,2024-11,Primary Sales,2,1,50.0
+Push Notification,2024-11,Property Management,2,1,50.0
+Push Notification,2024-11,Rental,1,0,0.0
+Push Notification,2024-11,Secondary Sales,1,1,100.0
+Push Notification,2024-12,Mortgage,1,0,0.0
+Push Notification,2024-12,Rental,2,1,50.0
+Push Notification,2025-01,Mortgage,1,1,100.0
+Push Notification,2025-01,Primary Sales,1,0,0.0
+Push Notification,2025-01,Rental,2,0,0.0
+Push Notification,2025-01,Secondary Sales,3,1,33.33333333333333
+Push Notification,2025-02,Mortgage,2,2,100.0
+Push Notification,2025-02,Primary Sales,4,3,75.0
+Push Notification,2025-02,Property Management,4,3,75.0
+Push Notification,2025-02,Rental,4,2,50.0
+Push Notification,2025-02,Secondary Sales,1,1,100.0
+Push Notification,2025-03,Mortgage,3,0,0.0
+Push Notification,2025-03,Primary Sales,1,0,0.0
+Push Notification,2025-03,Property Management,3,1,33.33333333333333
+Push Notification,2025-04,Mortgage,5,3,60.0
+Push Notification,2025-04,Primary Sales,3,2,66.66666666666666
+Push Notification,2025-04,Property Management,2,1,50.0
+Push Notification,2025-04,Rental,1,1,100.0
+Push Notification,2025-04,Secondary Sales,1,0,0.0
+Push Notification,2025-05,Mortgage,5,2,40.0
+Push Notification,2025-05,Primary Sales,4,2,50.0
+Push Notification,2025-05,Rental,5,2,40.0
+Push Notification,2025-05,Secondary Sales,2,1,50.0
+Push Notification,2025-06,Mortgage,3,1,33.33333333333333
+Push Notification,2025-06,Primary Sales,2,2,100.0
+Push Notification,2025-06,Rental,1,0,0.0
+Push Notification,2025-06,Secondary Sales,2,0,0.0
+Referral,2024-01,Mortgage,1,1,100.0
+Referral,2024-01,Primary Sales,3,2,66.66666666666666
+Referral,2024-01,Property Management,3,1,33.33333333333333
+Referral,2024-01,Secondary Sales,1,0,0.0
+Referral,2024-02,Primary Sales,3,1,33.33333333333333
+Referral,2024-02,Property Management,1,1,100.0
+Referral,2024-02,Rental,3,0,0.0
+Referral,2024-02,Secondary Sales,2,1,50.0
+Referral,2024-03,Primary Sales,1,0,0.0
+Referral,2024-03,Secondary Sales,1,1,100.0
+Referral,2024-04,Mortgage,3,2,66.66666666666666
+Referral,2024-04,Property Management,2,0,0.0
+Referral,2024-05,Primary Sales,1,0,0.0
+Referral,2024-05,Rental,4,0,0.0
+Referral,2024-05,Secondary Sales,2,2,100.0
+Referral,2024-06,Mortgage,4,3,75.0
+Referral,2024-06,Primary Sales,1,0,0.0
+Referral,2024-06,Property Management,1,1,100.0
+Referral,2024-06,Rental,1,0,0.0
+Referral,2024-06,Secondary Sales,2,1,50.0
+Referral,2024-07,Property Management,1,1,100.0
+Referral,2024-07,Rental,2,0,0.0
+Referral,2024-08,Mortgage,2,1,50.0
+Referral,2024-08,Primary Sales,2,1,50.0
+Referral,2024-08,Rental,4,3,75.0
+Referral,2024-08,Secondary Sales,2,1,50.0
+Referral,2024-09,Mortgage,4,2,50.0
+Referral,2024-09,Primary Sales,2,0,0.0
+Referral,2024-09,Property Management,4,1,25.0
+Referral,2024-09,Rental,2,1,50.0
+Referral,2024-09,Secondary Sales,1,0,0.0
+Referral,2024-10,Mortgage,1,1,100.0
+Referral,2024-10,Primary Sales,1,0,0.0
+Referral,2024-10,Property Management,2,1,50.0
+Referral,2024-10,Rental,3,1,33.33333333333333
+Referral,2024-10,Secondary Sales,1,0,0.0
+Referral,2024-11,Mortgage,4,3,75.0
+Referral,2024-11,Property Management,1,1,100.0
+Referral,2024-11,Rental,2,1,50.0
+Referral,2024-11,Secondary Sales,2,0,0.0
+Referral,2024-12,Mortgage,2,1,50.0
+Referral,2024-12,Primary Sales,4,1,25.0
+Referral,2024-12,Property Management,2,0,0.0
+Referral,2024-12,Rental,3,1,33.33333333333333
+Referral,2024-12,Secondary Sales,3,2,66.66666666666666
+Referral,2025-01,Mortgage,2,1,50.0
+Referral,2025-01,Primary Sales,3,1,33.33333333333333
+Referral,2025-01,Property Management,4,0,0.0
+Referral,2025-01,Rental,6,2,33.33333333333333
+Referral,2025-01,Secondary Sales,4,1,25.0
+Referral,2025-02,Mortgage,1,1,100.0
+Referral,2025-02,Primary Sales,2,2,100.0
+Referral,2025-02,Property Management,4,4,100.0
+Referral,2025-02,Rental,3,0,0.0
+Referral,2025-03,Primary Sales,2,1,50.0
+Referral,2025-03,Rental,1,1,100.0
+Referral,2025-03,Secondary Sales,3,1,33.33333333333333
+Referral,2025-04,Mortgage,1,0,0.0
+Referral,2025-04,Primary Sales,2,1,50.0
+Referral,2025-04,Property Management,2,0,0.0
+Referral,2025-04,Rental,3,1,33.33333333333333
+Referral,2025-05,Mortgage,1,0,0.0
+Referral,2025-05,Primary Sales,2,1,50.0
+Referral,2025-05,Rental,1,1,100.0
+Referral,2025-05,Secondary Sales,3,0,0.0
+Referral,2025-06,Mortgage,1,0,0.0
+Referral,2025-06,Primary Sales,2,1,50.0
+Referral,2025-06,Property Management,1,1,100.0
+Referral,2025-06,Rental,3,1,33.33333333333333
+Referral,2025-06,Secondary Sales,3,1,33.33333333333333
+SMS Campaign,2024-01,Mortgage,1,0,0.0
+SMS Campaign,2024-01,Primary Sales,1,0,0.0
+SMS Campaign,2024-01,Property Management,2,0,0.0
+SMS Campaign,2024-01,Rental,2,2,100.0
+SMS Campaign,2024-01,Secondary Sales,1,0,0.0
+SMS Campaign,2024-02,Mortgage,5,3,60.0
+SMS Campaign,2024-02,Primary Sales,3,0,0.0
+SMS Campaign,2024-02,Property Management,3,3,100.0
+SMS Campaign,2024-02,Rental,2,0,0.0
+SMS Campaign,2024-02,Secondary Sales,2,1,50.0
+SMS Campaign,2024-03,Mortgage,3,0,0.0
+SMS Campaign,2024-03,Primary Sales,2,1,50.0
+SMS Campaign,2024-03,Property Management,2,0,0.0
+SMS Campaign,2024-03,Rental,2,1,50.0
+SMS Campaign,2024-03,Secondary Sales,1,0,0.0
+SMS Campaign,2024-04,Mortgage,3,3,100.0
+SMS Campaign,2024-04,Primary Sales,1,0,0.0
+SMS Campaign,2024-04,Property Management,1,0,0.0
+SMS Campaign,2024-04,Rental,2,2,100.0
+SMS Campaign,2024-05,Mortgage,3,2,66.66666666666666
+SMS Campaign,2024-05,Primary Sales,2,1,50.0
+SMS Campaign,2024-05,Property Management,2,2,100.0
+SMS Campaign,2024-05,Rental,1,1,100.0
+SMS Campaign,2024-05,Secondary Sales,1,0,0.0
+SMS Campaign,2024-06,Mortgage,4,2,50.0
+SMS Campaign,2024-06,Primary Sales,1,0,0.0
+SMS Campaign,2024-06,Property Management,1,1,100.0
+SMS Campaign,2024-06,Rental,1,1,100.0
+SMS Campaign,2024-06,Secondary Sales,4,2,50.0
+SMS Campaign,2024-07,Mortgage,2,0,0.0
+SMS Campaign,2024-07,Primary Sales,1,0,0.0
+SMS Campaign,2024-07,Property Management,1,0,0.0
+SMS Campaign,2024-07,Rental,6,3,50.0
+SMS Campaign,2024-07,Secondary Sales,1,0,0.0
+SMS Campaign,2024-08,Mortgage,2,1,50.0
+SMS Campaign,2024-08,Primary Sales,2,1,50.0
+SMS Campaign,2024-08,Rental,1,0,0.0
+SMS Campaign,2024-08,Secondary Sales,3,1,33.33333333333333
+SMS Campaign,2024-09,Mortgage,4,2,50.0
+SMS Campaign,2024-09,Primary Sales,2,1,50.0
+SMS Campaign,2024-09,Property Management,2,2,100.0
+SMS Campaign,2024-09,Rental,2,1,50.0
+SMS Campaign,2024-09,Secondary Sales,3,2,66.66666666666666
+SMS Campaign,2024-10,Primary Sales,3,0,0.0
+SMS Campaign,2024-10,Property Management,1,0,0.0
+SMS Campaign,2024-10,Rental,3,2,66.66666666666666
+SMS Campaign,2024-10,Secondary Sales,3,1,33.33333333333333
+SMS Campaign,2024-11,Mortgage,1,0,0.0
+SMS Campaign,2024-11,Property Management,2,1,50.0
+SMS Campaign,2024-11,Rental,1,1,100.0
+SMS Campaign,2024-11,Secondary Sales,3,1,33.33333333333333
+SMS Campaign,2024-12,Mortgage,3,1,33.33333333333333
+SMS Campaign,2024-12,Primary Sales,1,0,0.0
+SMS Campaign,2024-12,Rental,2,0,0.0
+SMS Campaign,2024-12,Secondary Sales,1,0,0.0
+SMS Campaign,2025-01,Mortgage,3,3,100.0
+SMS Campaign,2025-01,Rental,4,3,75.0
+SMS Campaign,2025-01,Secondary Sales,5,2,40.0
+SMS Campaign,2025-02,Mortgage,2,0,0.0
+SMS Campaign,2025-02,Primary Sales,3,1,33.33333333333333
+SMS Campaign,2025-02,Property Management,3,2,66.66666666666666
+SMS Campaign,2025-02,Rental,2,1,50.0
+SMS Campaign,2025-02,Secondary Sales,2,1,50.0
+SMS Campaign,2025-03,Mortgage,3,2,66.66666666666666
+SMS Campaign,2025-03,Primary Sales,2,1,50.0
+SMS Campaign,2025-03,Rental,2,1,50.0
+SMS Campaign,2025-03,Secondary Sales,3,2,66.66666666666666
+SMS Campaign,2025-04,Mortgage,2,2,100.0
+SMS Campaign,2025-04,Primary Sales,1,1,100.0
+SMS Campaign,2025-04,Property Management,5,3,60.0
+SMS Campaign,2025-04,Rental,2,1,50.0
+SMS Campaign,2025-04,Secondary Sales,2,2,100.0
+SMS Campaign,2025-05,Primary Sales,1,0,0.0
+SMS Campaign,2025-05,Property Management,1,1,100.0
+SMS Campaign,2025-05,Rental,3,1,33.33333333333333
+SMS Campaign,2025-05,Secondary Sales,3,0,0.0
+SMS Campaign,2025-06,Primary Sales,4,1,25.0
+SMS Campaign,2025-06,Rental,2,1,50.0
+TikTok Ads,2024-01,Primary Sales,1,0,0.0
+TikTok Ads,2024-01,Property Management,3,1,33.33333333333333
+TikTok Ads,2024-01,Rental,1,0,0.0
+TikTok Ads,2024-02,Property Management,1,0,0.0
+TikTok Ads,2024-02,Secondary Sales,2,2,100.0
+TikTok Ads,2024-03,Mortgage,2,1,50.0
+TikTok Ads,2024-03,Primary Sales,4,2,50.0
+TikTok Ads,2024-03,Property Management,2,1,50.0
+TikTok Ads,2024-03,Rental,1,0,0.0
+TikTok Ads,2024-03,Secondary Sales,1,0,0.0
+TikTok Ads,2024-04,Mortgage,1,1,100.0
+TikTok Ads,2024-04,Primary Sales,1,0,0.0
+TikTok Ads,2024-04,Property Management,2,1,50.0
+TikTok Ads,2024-04,Rental,4,2,50.0
+TikTok Ads,2024-04,Secondary Sales,4,1,25.0
+TikTok Ads,2024-05,Mortgage,1,0,0.0
+TikTok Ads,2024-05,Primary Sales,4,3,75.0
+TikTok Ads,2024-05,Property Management,1,1,100.0
+TikTok Ads,2024-05,Rental,4,1,25.0
+TikTok Ads,2024-05,Secondary Sales,4,1,25.0
+TikTok Ads,2024-06,Primary Sales,4,1,25.0
+TikTok Ads,2024-06,Property Management,2,2,100.0
+TikTok Ads,2024-06,Rental,4,2,50.0
+TikTok Ads,2024-06,Secondary Sales,4,2,50.0
+TikTok Ads,2024-07,Mortgage,2,0,0.0
+TikTok Ads,2024-07,Property Management,3,0,0.0
+TikTok Ads,2024-07,Rental,3,1,33.33333333333333
+TikTok Ads,2024-07,Secondary Sales,3,2,66.66666666666666
+TikTok Ads,2024-08,Mortgage,1,0,0.0
+TikTok Ads,2024-08,Primary Sales,1,0,0.0
+TikTok Ads,2024-08,Rental,2,1,50.0
+TikTok Ads,2024-08,Secondary Sales,3,1,33.33333333333333
+TikTok Ads,2024-09,Mortgage,2,0,0.0
+TikTok Ads,2024-09,Property Management,1,0,0.0
+TikTok Ads,2024-09,Rental,2,1,50.0
+TikTok Ads,2024-09,Secondary Sales,2,1,50.0
+TikTok Ads,2024-10,Mortgage,2,0,0.0
+TikTok Ads,2024-10,Primary Sales,1,1,100.0
+TikTok Ads,2024-10,Rental,3,1,33.33333333333333
+TikTok Ads,2024-11,Property Management,3,1,33.33333333333333
+TikTok Ads,2024-11,Rental,1,0,0.0
+TikTok Ads,2024-11,Secondary Sales,2,2,100.0
+TikTok Ads,2024-12,Mortgage,2,1,50.0
+TikTok Ads,2024-12,Primary Sales,2,0,0.0
+TikTok Ads,2024-12,Property Management,2,1,50.0
+TikTok Ads,2024-12,Rental,2,0,0.0
+TikTok Ads,2024-12,Secondary Sales,2,0,0.0
+TikTok Ads,2025-01,Mortgage,1,0,0.0
+TikTok Ads,2025-01,Primary Sales,3,1,33.33333333333333
+TikTok Ads,2025-01,Property Management,3,1,33.33333333333333
+TikTok Ads,2025-01,Rental,1,0,0.0
+TikTok Ads,2025-01,Secondary Sales,1,0,0.0
+TikTok Ads,2025-02,Mortgage,3,2,66.66666666666666
+TikTok Ads,2025-02,Primary Sales,2,0,0.0
+TikTok Ads,2025-02,Property Management,5,5,100.0
+TikTok Ads,2025-02,Rental,6,2,33.33333333333333
+TikTok Ads,2025-02,Secondary Sales,1,1,100.0
+TikTok Ads,2025-03,Mortgage,3,1,33.33333333333333
+TikTok Ads,2025-03,Primary Sales,1,0,0.0
+TikTok Ads,2025-03,Property Management,3,1,33.33333333333333
+TikTok Ads,2025-03,Rental,1,1,100.0
+TikTok Ads,2025-03,Secondary Sales,3,2,66.66666666666666
+TikTok Ads,2025-04,Mortgage,2,2,100.0
+TikTok Ads,2025-04,Primary Sales,2,2,100.0
+TikTok Ads,2025-04,Property Management,3,2,66.66666666666666
+TikTok Ads,2025-04,Rental,1,0,0.0
+TikTok Ads,2025-04,Secondary Sales,3,3,100.0
+TikTok Ads,2025-05,Mortgage,1,0,0.0
+TikTok Ads,2025-05,Primary Sales,1,0,0.0
+TikTok Ads,2025-05,Property Management,1,0,0.0
+TikTok Ads,2025-05,Rental,5,1,20.0
+TikTok Ads,2025-06,Mortgage,5,3,60.0
+TikTok Ads,2025-06,Primary Sales,1,1,100.0
+TikTok Ads,2025-06,Rental,2,0,0.0
+TikTok Ads,2025-06,Secondary Sales,1,1,100.0
+WhatsApp Campaign,2024-01,Primary Sales,3,0,0.0
+WhatsApp Campaign,2024-01,Property Management,1,0,0.0
+WhatsApp Campaign,2024-01,Rental,1,1,100.0
+WhatsApp Campaign,2024-01,Secondary Sales,5,1,20.0
+WhatsApp Campaign,2024-02,Primary Sales,1,1,100.0
+WhatsApp Campaign,2024-02,Property Management,1,1,100.0
+WhatsApp Campaign,2024-02,Rental,2,1,50.0
+WhatsApp Campaign,2024-03,Mortgage,2,2,100.0
+WhatsApp Campaign,2024-03,Primary Sales,1,1,100.0
+WhatsApp Campaign,2024-03,Property Management,1,0,0.0
+WhatsApp Campaign,2024-03,Rental,1,1,100.0
+WhatsApp Campaign,2024-04,Mortgage,3,1,33.33333333333333
+WhatsApp Campaign,2024-04,Primary Sales,1,0,0.0
+WhatsApp Campaign,2024-04,Property Management,4,3,75.0
+WhatsApp Campaign,2024-05,Mortgage,1,1,100.0
+WhatsApp Campaign,2024-05,Primary Sales,2,1,50.0
+WhatsApp Campaign,2024-05,Property Management,2,1,50.0
+WhatsApp Campaign,2024-05,Rental,5,2,40.0
+WhatsApp Campaign,2024-05,Secondary Sales,1,0,0.0
+WhatsApp Campaign,2024-06,Mortgage,3,1,33.33333333333333
+WhatsApp Campaign,2024-06,Primary Sales,4,2,50.0
+WhatsApp Campaign,2024-06,Property Management,1,1,100.0
+WhatsApp Campaign,2024-06,Rental,1,0,0.0
+WhatsApp Campaign,2024-06,Secondary Sales,5,3,60.0
+WhatsApp Campaign,2024-07,Mortgage,1,1,100.0
+WhatsApp Campaign,2024-07,Primary Sales,1,0,0.0
+WhatsApp Campaign,2024-07,Property Management,2,1,50.0
+WhatsApp Campaign,2024-07,Rental,1,1,100.0
+WhatsApp Campaign,2024-08,Mortgage,1,1,100.0
+WhatsApp Campaign,2024-08,Primary Sales,4,0,0.0
+WhatsApp Campaign,2024-08,Rental,4,4,100.0
+WhatsApp Campaign,2024-08,Secondary Sales,1,1,100.0
+WhatsApp Campaign,2024-09,Primary Sales,2,1,50.0
+WhatsApp Campaign,2024-09,Property Management,1,0,0.0
+WhatsApp Campaign,2024-09,Rental,2,1,50.0
+WhatsApp Campaign,2024-10,Primary Sales,3,2,66.66666666666666
+WhatsApp Campaign,2024-10,Property Management,1,1,100.0
+WhatsApp Campaign,2024-10,Rental,1,1,100.0
+WhatsApp Campaign,2024-10,Secondary Sales,1,0,0.0
+WhatsApp Campaign,2024-11,Mortgage,1,0,0.0
+WhatsApp Campaign,2024-11,Primary Sales,1,1,100.0
+WhatsApp Campaign,2024-11,Property Management,1,0,0.0
+WhatsApp Campaign,2024-11,Rental,1,0,0.0
+WhatsApp Campaign,2024-11,Secondary Sales,2,1,50.0
+WhatsApp Campaign,2024-12,Mortgage,2,0,0.0
+WhatsApp Campaign,2024-12,Primary Sales,1,1,100.0
+WhatsApp Campaign,2024-12,Rental,1,1,100.0
+WhatsApp Campaign,2025-01,Mortgage,3,2,66.66666666666666
+WhatsApp Campaign,2025-01,Primary Sales,1,1,100.0
+WhatsApp Campaign,2025-01,Property Management,1,1,100.0
+WhatsApp Campaign,2025-01,Rental,2,1,50.0
+WhatsApp Campaign,2025-01,Secondary Sales,2,1,50.0
+WhatsApp Campaign,2025-02,Mortgage,3,2,66.66666666666666
+WhatsApp Campaign,2025-02,Property Management,1,0,0.0
+WhatsApp Campaign,2025-02,Rental,3,2,66.66666666666666
+WhatsApp Campaign,2025-02,Secondary Sales,4,3,75.0
+WhatsApp Campaign,2025-03,Mortgage,2,1,50.0
+WhatsApp Campaign,2025-03,Primary Sales,3,2,66.66666666666666
+WhatsApp Campaign,2025-03,Rental,1,1,100.0
+WhatsApp Campaign,2025-03,Secondary Sales,2,1,50.0
+WhatsApp Campaign,2025-04,Mortgage,2,0,0.0
+WhatsApp Campaign,2025-04,Property Management,2,2,100.0
+WhatsApp Campaign,2025-04,Secondary Sales,2,0,0.0
+WhatsApp Campaign,2025-05,Mortgage,1,1,100.0
+WhatsApp Campaign,2025-05,Primary Sales,2,0,0.0
+WhatsApp Campaign,2025-05,Property Management,4,0,0.0
+WhatsApp Campaign,2025-05,Rental,1,1,100.0
+WhatsApp Campaign,2025-05,Secondary Sales,3,0,0.0
+WhatsApp Campaign,2025-06,Mortgage,1,0,0.0
+WhatsApp Campaign,2025-06,Primary Sales,1,0,0.0
+WhatsApp Campaign,2025-06,Property Management,3,2,66.66666666666666
+WhatsApp Campaign,2025-06,Rental,1,1,100.0
+WhatsApp Campaign,2025-06,Secondary Sales,4,1,25.0
