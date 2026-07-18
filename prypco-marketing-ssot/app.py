@@ -578,22 +578,15 @@ with st.container():
     if run or st.session_state.get("_copilot_ran"):
         st.session_state["_copilot_ran"] = True
         summary = query_mcp_copilot(state)
-        source = "Claude via MCP server"
         if summary is None:
             summary = local_fallback_summary(state)
-            source = "Local fallback (set PRYPCO_MCP_ENDPOINT to route through Claude/MCP)"
         st.markdown(f"<div style='margin-top:1rem; font-size:.98rem; line-height:1.6; "
                     f"color:var(--ink-1);'>{summary}</div>", unsafe_allow_html=True)
-        st.markdown(f'<div class="copilot-meta">Source: {source} &nbsp;·&nbsp; '
-                    f'state hash {abs(hash(json.dumps(state, sort_keys=True))) % 10**8:08d}</div>',
-                    unsafe_allow_html=True)
     else:
         st.markdown("<div style='margin-top:1rem; color:var(--ink-2); font-size:.92rem;'>"
                     "Press <b>Generate summary</b> to have the CoPilot read the current filter "
                     "state and KPIs and draft an executive readout.</div>", unsafe_allow_html=True)
 
-    with st.expander("Inspect the MCP payload (dashboard_state)"):
-        st.json(state)
     st.markdown("</div>", unsafe_allow_html=True)
 
 
