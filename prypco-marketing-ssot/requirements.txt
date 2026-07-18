@@ -1,4 +1,7 @@
-streamlit==1.50.0
-plotly==6.9.0
-pandas==2.3.3
-numpy==2.0.2
+# Floor pins (not exact) so the installer resolves versions that ship
+# prebuilt wheels for the runtime's Python (Streamlit Cloud is on 3.14).
+# uv installs the newest release satisfying each floor, which has 3.14 wheels.
+streamlit>=1.40
+pandas>=2.2
+numpy>=2.1
+plotly>=5.24
